@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
+
+<coverage line-rate="0.0" branch-rate="1.0" lines-covered="0" lines-valid="10" branches-covered="0" branches-valid="0" complexity="1.0" version="2.1.1" timestamp="1498545760620">
+	<sources>
+		<source>C:/Users/aishwaryav.CYBAGE/Downloads/SpringExample/SpringExample/src/main/java</source>
+		<source>--source</source>
+	</sources>
+	<packages>
+		<package name="com.mkyong.common" line-rate="0.0" branch-rate="1.0" complexity="1.0">
+			<classes>
+				<class name="com.mkyong.common.App" filename="com/mkyong/common/App.java" line-rate="0.0" branch-rate="1.0" complexity="1.0">
+					<methods>
+						<method name="&lt;init&gt;" signature="()V" line-rate="0.0" branch-rate="1.0" complexity="0">
+							<lines>
+								<line number="10" hits="0" branch="false"/>
+							</lines>
+						</method>
+						<method name="main" signature="([Ljava/lang/String;)V" line-rate="0.0" branch-rate="1.0" complexity="0">
+							<lines>
+								<line number="14" hits="0" branch="false"/>
+								<line number="16" hits="0" branch="false"/>
+								<line number="17" hits="0" branch="false"/>
+								<line number="19" hits="0" branch="false"/>
+							</lines>
+						</method>
+					</methods>
+					<lines>
+						<line number="10" hits="0" branch="false"/>
+						<line number="14" hits="0" branch="false"/>
+						<line number="16" hits="0" branch="false"/>
+						<line number="17" hits="0" branch="false"/>
+						<line number="19" hits="0" branch="false"/>
+					</lines>
+				</class>
+				<class name="com.mkyong.common.HelloWorld" filename="com/mkyong/common/HelloWorld.java" line-rate="0.0" branch-rate="1.0" complexity="1.0">
+					<methods>
+						<method name="&lt;init&gt;" signature="()V" line-rate="0.0" branch-rate="1.0" complexity="0">
+							<lines>
+								<line number="7" hits="0" branch="false"/>
+							</lines>
+						</method>
+						<method name="printHello" signature="()V" line-rate="0.0" branch-rate="1.0" complexity="0">
+							<lines>
+								<line number="16" hits="0" branch="false"/>
+								<line number="17" hits="0" branch="false"/>
+							</lines>
+						</method>
+						<method name="setName" signature="(Ljava/lang/String;)V" line-rate="0.0" branch-rate="1.0" complexity="0">
+							<lines>
+								<line number="12" hits="0" branch="false"/>
+								<line number="13" hits="0" branch="false"/>
+							</lines>
+						</method>
+					</methods>
+					<lines>
+						<line number="7" hits="0" branch="false"/>
+						<line number="12" hits="0" branch="false"/>
+						<line number="13" hits="0" branch="false"/>
+						<line number="16" hits="0" branch="false"/>
+						<line number="17" hits="0" branch="false"/>
+					</lines>
+				</class>
+			</classes>
+		</package>
+	</packages>
+</coverage>
